@@ -7,7 +7,7 @@
 - ✍️ I love writing whether it's jotting down my thoughts or ideas and I enjoy organizing information clearly and meaningfully.
 - 💬 I value **perseverance, courage, and vision** and I’m always open to learning new things!
 
-  ## 🛠️ My Tech Stack
+### 🛠️ My Tech Stack
 - **Languages:** Java, Python, C
 - **AI/ML Tools:** TensorFlow, Keras, scikit-learn, OpenCV  
 - **Web Basics:** HTML, CSS
